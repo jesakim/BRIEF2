@@ -1,10 +1,12 @@
 div {
     width: 20%;
     padding: 10px;
-    border: 1px solid black;
+    border: 2px solid black;
     margin: 0;
     
   }
-  h5{
-        color: "red";
-    }
+nav{
+  margin: 10px;
+  padding: 10px;
+}
+  
