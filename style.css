@@ -1,12 +1,45 @@
+*{
+  box-sizing: border-box;
+}
+
+.nav{
+  display: flex;
+}
+
+
 div {
     width: 20%;
     padding: 10px;
     border: 2px solid black;
     margin: 0;
+    display: inline-block;
     
   }
-nav{
+.nav1{
+  margin: 50px;
+  padding: 0px;
+}
+.nav2{
+  margin: 50px;
+  padding: 0px;
+}
+.nono{
+  margin: 0px;
+  padding: 0px;
+}
+.pt1{
+  margin: 3px;
+  padding: 0px;
+}
+.pt4{
+  margin: 3px;
+  padding: 0px;
+}
+.pt2{
   margin: 10px;
   padding: 10px;
 }
-  
+.pt3{
+  margin: 11px;
+  padding: 10px;
+}
